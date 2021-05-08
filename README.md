@@ -15,7 +15,7 @@ The home screen has five features:
 5. Embedded inside the deck is a "Delete" button that shows a warning message before deleting the deck.  When the user clicks the "Delete" button, a warning message is shown and the user can click "Ok" or "Cancel".  If the user clicks "Ok" the deck is deleted and the deleted deck is no longer visible on the Home screen.
 
 ![Settings Window](https://raw.github.com/rimachaib/project-flaschard-o-matic
-/main/screenshots/home-screen)
+/main/screenshots/home-screen.png)
 
 ## The Study Screen
 
@@ -30,7 +30,7 @@ The study screen has seven features:
 7. Studying a deck with two or fewer cards displays a "Not enough cards" message.
 
 ![Settings Window](https://raw.github.com/rimachaib/project-flaschard-o-matic
-/main/screenshots/study-screen)
+/main/screenshots/study-screen.png)
 
 ## The Create Deck Screen
 
@@ -42,7 +42,7 @@ The Create Deck Screen is reached when a user clicks the "Create Deck" button, i
 4. A "cancel" button that takes the user to the home screen.
 
 ![Settings Window](https://raw.github.com/rimachaib/project-flaschard-o-matic
-/main/screenshots/create-screen)
+/main/screenshots/create-screen.png)
 
 ## The Deck Screen
 
@@ -55,8 +55,7 @@ The Deck Screen displays all of the information about a deck and contains the fo
 5. A "Add Cards" button embedded inside the card that takes the user to the Add Card Screen when clicked.
 6. A "Delete" button embedded inside the card that shows a warning message before deleting the card.  When the user clicks the "Delete" button, a warning message is shown and the user can click "Ok" or "Cancel".
 
-![Settings Window](https://raw.github.com/rimachaib/project-flaschard-o-matic
-/main/screenshots/deck-screen)
+![Settings Window](https://raw.github.com/rimachaib/project-flaschard-o-matic/screenshots/deck-screen.png)
 
 ## The Edit Deck Screen
 
@@ -67,8 +66,7 @@ The Edit Deck Screen allows the user to modify information on an existing deck a
 3. A form with the same input fields as the Add Card screen, except it is pre-filled with information for the existing card and can be edited and updated.
 4. A "Cancel" button that takes the user to the Deck screen.
 
-![Settings Window](https://raw.github.com/rimachaib/project-flaschard-o-matic
-/main/screenshots/edit-deck-screen)
+![Settings Window](https://raw.github.com/rimachaib/project-flaschard-o-matic/screenshots/edit-deck-screen.png)
 
 ## The Add Card Screen
 
@@ -81,7 +79,7 @@ The Add Card Screen allows the user to add a new card to an existing deck and co
 5. A "Done" button that takes the user to the Deck screen.
 
 ![Settings Window](https://raw.github.com/rimachaib/project-flaschard-o-matic
-/main/screenshots/add-card-screen)
+/main/screenshots/add-card-screen.png)
 
 ## The Edit Card Screen
 
@@ -94,5 +92,5 @@ The Edit Card Screen allows the user to modify information on an existing card a
 5.  A "Cancel" button that takes the user to the Deck Screen.
 
 ![Settings Window](https://raw.github.com/rimachaib/project-flaschard-o-matic
-/main/screenshots/edit-card-screen)
+/main/screenshots/edit-card-screen.png)
 
