@@ -6,7 +6,7 @@ This project required the installation of packages via NPM, running tests from t
 
 ## The Home Screen
 
-The home screen has five features:
+The Home Screen has five features:
 
 1. A "Create Deck" button is displayed which brings the user to the create deck screen after the button is clicked.
 2. Existing decks are displayed on the screen with the deck name and the number of cards.
@@ -18,7 +18,7 @@ The home screen has five features:
 
 ## The Study Screen
 
-The study screen has seven features:
+The Study Screen has seven features:
 
 1. A breadcrumb navigation bar with links to home, followed by the name of the deck being studied and finally the text "Study".
 2. The deck title as a primary header.
